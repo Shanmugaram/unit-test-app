@@ -4,7 +4,7 @@
   "description": "A simple test with mocha",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --reporter mocha-junit-reporter --reporter-options mochaFile=./test-results/results.xml"
   },
   "keywords": [],
   "author": "",
