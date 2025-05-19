@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.005" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-05-19T23:00:23" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Calculator Tests" timestamp="2025-05-19T23:00:23" tests="2" file="/home/ubuntu/unit-test-app/test/calculator.test.js" time="0.002" failures="0">
+    <testcase name="Calculator Tests should return 5 when adding 2 + 3" time="0.000" classname="should return 5 when adding 2 + 3">
+    </testcase>
+    <testcase name="Calculator Tests should return 1 when subtracting 3 - 2" time="0.000" classname="should return 1 when subtracting 3 - 2">
+    </testcase>
+  </testsuite>
+</testsuites>
